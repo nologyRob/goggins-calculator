@@ -1,0 +1,22 @@
+.app-container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app-title {
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+.goggins-image {
+  margin-top: 20px;
+ width: 80%;
+  border-radius: 10px; /* Update the border-radius to your desired value */
+  object-fit: cover;
+  margin-bottom: 20px;
+}
